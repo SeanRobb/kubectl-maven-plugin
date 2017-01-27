@@ -10,7 +10,7 @@
 
     <packaging>maven-plugin</packaging>
 
-    <name>Kubectl Command Plugin</name>
+    <name>Kubectl Maven Plugin</name>
 
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
